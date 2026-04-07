@@ -12,6 +12,6 @@ valor_final = sl_bruto - desconto
 print(f"Salário bruto: R$ {sl_bruto:.2f}")
 print(f"IRRF: {porcentagem}% (R$ {desconto:.2f})")
 print(f"Salário líquido: R$ {valor_final:.2f}")
-
+print ("teste git")
 
 
